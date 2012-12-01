@@ -1,3 +1,5 @@
+use Lingua::Shakespeare;
+
 On a popular drinking game.
 
 Tybalt, the player of today's game.
@@ -5,6 +7,7 @@ Romeo, who keeps butting in.
 Balthazar, a limiting factor.
 
 		       Act I: Before the game.
+	
 		     Scene I: An uninvited guest.
 [Enter Balthazar and Tybalt]
 Tybalt:
@@ -12,66 +15,70 @@ Tybalt:
 Balthazar:
 	You plum.
 [Exit Balthazar]
-
-		  Act II: Determining Divisibility.
-		      Scene I: Romeo's question.
 [Enter Romeo]
+		      Scene II: Romeo's question.
 Romeo:
 	Is the remainder of the quotient between yourself and the sum
 	of a trustworthy fellow and a hero as good as nothing?
 Tybalt:
-	If so, let us proceed to scene IV.
+	If so, let us proceed to scene V.
 
-		      Scene II: Romeo continues.
+		      Scene III: Romeo continues.
 Romeo:
 	Is the remainder of the quotient between yourself and the sum
 	of an angel and a beautiful blossoming flower as good as nothing?
 Tybalt:
-	If so, let us proceed to scene V.
+	If so, let us proceed to scene VI.
 
-		     Scene III: The easy way out.
+		     Scene IV: The easy way out.
 Romeo:
 	Open your heart.
 Tybalt:
-	Let us proceed to scene VI.
+	Let us proceed to scene VII.
 
-	      Scene IV: Tybalt and the art of flattery.
+	      Scene V: Tybalt and the art of flattery.
 Tybalt:
 	
 	You mighty brave charming honest handsome noble fellow! You
-	are as bold as the sum of a big old hero and a loving son and
-	yourself! Speak your mind.
+	are as bold as the sum of a big old hero and yourself. You are
+	as fair as the sum of a loving son and yourself! Speak your mind.
 
-	You are as rich as the sum of yourself and the quotient of
-	yourself and my purse. Speak your mind.
+	You are as rich as the sum of yourself and the quotient between
+	yourself and your large purse. Speak your mind.
 
-	You are as warm as the sum of yourself and a summer's day and
-	a pretty proud fine little thing. Speak your mind. Speak your mind!
+	You are as warm as the sum of yourself and a summer's day. You
+	are as cute as the sum of yourself and a pretty proud fine
+	little thing. Speak your mind. Speak your mind!
 
 	Is the remainder of the quotient between myself and the sum of
 	my thing and your lovely cute sister as good as nothing?
 
 Romeo:
-	If not, let us proceed to scene VI.
+	If not, let us proceed to scene VII.
 
-	     Scene V: Tybalt starts to run out of steam.
+	     Scene VI: Tybalt starts to run out of steam.
 Tybalt:
 	You cunning fellow. You are as mighty as the difference
 	between yourself and a stupid vile half-witted damned dirty
 	lying coward. Speak your mind.
 
-	You are as large as the product of yourself and the Lord, but
-	you are as small as the sum of yourself and the difference
-	between a cat and a cursed foul smelly rotten hog. Speak your mind.
+	You are as large as the product of yourself and the good Lord.
+	You are as small as the sum of yourself and the difference
+	between a cat and a beautiful blossoming lovely red
+	rose. Speak your mind.
 
-	You are as big as the sum of yourself and a good old pony and a
-	thing. Speak your mind. Speak your mind!
+	You are as big as the sum of yourself and a good old pony. You
+	are as big as the sum of yourself and a thing. Speak your
+	mind. Speak your mind!
 
-		   Scene VI. The next round begins.
+		  Scene VII: The next round begins.
+Tybalt:
+	You cunning fellow. You are as mighty as the sum of yourself
+	and the cube of a little cat. Speak your mind!
 Romeo:
 	You are as good as the sum of yourself and a King.
 Tybalt:
-	Am I greater than Balthazar?
+	Am I better than Balthazar?
 Romeo:
-	If not, let us return to scene I.
+	If not, let us return to scene II.
 [Exeunt]
